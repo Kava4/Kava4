@@ -1,3 +1,47 @@
+# 🔥 George | aka "KavaMav"  
+🚀 **Developer | Gamer | FUT Wizard** 🎮  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![FIFA ULTIMATE TEAM GRINDER](https://img.shields.io/badge/FIFA%20ULTIMATE%20TEAM%20GRINDER-%E2%9C%94-brightgreen)  
+![Projects](https://img.shields.io/badge/Projects-🔥%20Always%20Cooking-orange)  
+![Status](https://img.shields.io/badge/Status-Online%20%E2%9C%94-blue)
+
+---
+
+## 🛠️ What I Do  
+💻 **Full-time FUT Addict** – Tinkering with FIFA Ultimate Team scripts to make life easier.  
+🛠 **Building Stuff** – Creator of [EasyFUT](https://github.com/YOUR_GITHUB_HERE), a sleek SBC solver & trading assistant.  
+🎮 **Gaming & Grinding** – Baldur’s Gate 3, Elder Scrolls Online, and of course, FUT.  
+🚀 **Automation & Optimization** – Obsessed with making things *faster, better, stronger*.
+
+---
+
+## 🔥 My Projects  
+✅ **EasyFUT** – The **ultimate** FUT automation extension.  
+✅ **PUBG No Recoil Macro** – A script to make Krafton sweat.  
+✅ **More Coming Soon...**  
+
+> *"Code is like FUT packs – sometimes it's broken, sometimes it's gold."*  
+
+---
+
+## 💡 Fun Facts About Me  
+🎯 **FIFA Ultimate Team Veteran** (Since FIFA 13)  
+🛠 **3D Printing Enthusiast** (Yes, I make custom molds too)  
+🕹 **Game Modding & Reverse Engineering** 
+
+---
+
+## 🏆 Tech Stack & Tools  
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow)  
+![Python](https://img.shields.io/badge/Python-%E2%9C%94-blue)  
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%E2%9C%94-black)  
+![FIFA Editor Tool](https://img.shields.io/badge/FIFA%20Editor-%E2%9C%94-green)  
+![GitHub](https://img.shields.io/badge/GitHub-%E2%9C%94-lightgrey)  
+
+---
+
+> 💡 *"If it's not automated, you're working too hard!"*  
+
+---
+
+🔥 **Feel free to fork, star, or contribute to my projects!** 🚀  
