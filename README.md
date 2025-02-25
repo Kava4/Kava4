@@ -1,4 +1,4 @@
-# 🔥 George | aka "KavaMav"  
+# 🔥 "Kava"  
 🚀 **Developer | Gamer | FUT Wizard** 🎮  
 
 ![FIFA ULTIMATE TEAM GRINDER](https://img.shields.io/badge/FIFA%20ULTIMATE%20TEAM%20GRINDER-%E2%9C%94-brightgreen)  
